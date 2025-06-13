@@ -24,5 +24,8 @@ Esta herramienta es ideal para talleres que quieren cotizar con precisión y rap
 - Versión dinámica con entrada de datos del usuario
 - Adaptable a cualquier tipo de negocio.
 
+---
+![Dashboard_Carpinteria](./Captura_Dashboard.PNG)
+
 ## 📌 Autor
 Desarrollado por [Alejandro Arellano Camacho](https://github.com/Alejandroarellanocamacho)
